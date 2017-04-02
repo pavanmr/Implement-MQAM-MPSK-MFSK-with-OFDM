@@ -73,4 +73,3 @@ legend('theory', 'simulation');
 xlabel('Eb/No, dB')
 ylabel('Bit Error Rate')
 title('Bit error probability curve for 16-PSK modulation')
-
